@@ -1,1 +1,2 @@
-#WRITE YOUR CODE IN THIS FILE
+def product(x,y,z)
+return(x + y+ x)+1
